@@ -2,8 +2,8 @@
 //  ViewController.h
 //  LVmovieapp
 //
-//  Created by Kolyvan on 11.10.12.
-//  Copyright (c) 2012 Konstantin Boukreev . All rights reserved.
+//  Created by lv on 11.10.12.
+//  Copyright (c) 2012 lv . All rights reserved.
 //
 //  this file is part of LVMovie
 //  LVMovie is licenced under the LGPL v3, see lgpl-3.0.txt
